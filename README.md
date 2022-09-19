@@ -5,7 +5,7 @@
 
 Projeto construido para compartilhar conteudos relevantes sobre gameplays e interagir com usuários da plataforma twitchtv.
 
-[Clique aqui para acessar] (https://tiago-maker.github.io/TiCabore-Hub)
+[Clique aqui para acessar](https://tiago-maker.github.io/TiCabore-Hub)
 
 ## Tecnologias
 
